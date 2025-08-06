@@ -75,7 +75,7 @@ Com base na análise realizada, recomenda-se que a empresa:
 
 Você pode executar e explorar o projeto diretamente no Google Colab:
 
-[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/https://colab.research.google.com/drive/1D09hrEL1pVHAlBTpfo4QbkrmpnynQWPC#scrollTo=6XnTC2NTmMRL)
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/https://https://colab.research.google.com/drive/1D09hrEL1pVHAlBTpfo4QbkrmpnynQWPC?usp=sharing)
 
 ---
 
